@@ -695,6 +695,7 @@ button {
   }
   #features .features .features-area label {
     width: 100%;
+    padding-top: 2rem;
   }
   #features .features .features-area input:checked + label {
     color: #5a5a5a;
